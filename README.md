@@ -1,5 +1,6 @@
 # Sandwiches-With-Chips
 </body>
+
 <h1> HELPING THE WORLD TO UNDERSTAND HOW LIFE CAN BE BETTER BY ADDING CHIPS TO SANDWICHES! </h1>
   <div>
     <p class="blue"> </p>
@@ -8,5 +9,8 @@
    </div>
   <img id="my-special-image" src="https://img.sndimg.com/food/image/upload/c_thumb,q_80,w_562,h_316/v1/img/recipes/37/16/69/picEaBUhH.jpg">
   
-   <p> While this recipe is a solid foundation, I personally would substitute the mayo with yellow mustard and add the <a href="https://www.ruffles.com/products/ruffles-jalape-o-ranch-flavored-potato-chips"> Ruffles Jalapeno Ranch </a> chip to expand the floavor of the turkey and add a touch of heat. <p>
+   <p> While this recipe is a solid foundation, I personally would substitute the mayo with yellow mustard and add the <a href="https://www.ruffles.com/products/ruffles-jalape-o-ranch-flavored-potato-chips"> Ruffles Jalapeno Ranch </a> chip to expand the flavor of the turkey and add a touch of heat. <p>
  
+ 
+ 
+ </body>
