@@ -10,8 +10,12 @@
   <img id="my-special-image" src="https://img.sndimg.com/food/image/upload/c_thumb,q_80,w_562,h_316/v1/img/recipes/37/16/69/picEaBUhH.jpg">
   
    <p> While this recipe is a solid foundation, I personally would substitute the mayo with yellow mustard and add the <a href="https://www.ruffles.com/products/ruffles-jalape-o-ranch-flavored-potato-chips"> Ruffles Jalapeno Ranch </a> chip to expand the flavor of the turkey and add a touch of heat. <p>
- 
- 
+  <strong> Check out these categories of Sandwiches With Chips On Them. </strong>
+ <ul> 
+  <li> <a href="Breakfast"> Breakfast </a> </li>
+  <li> <a href="Lunch"> Lunch </a> </li>
+  <li> <a href="Dinner"> Dinner </a> </li>
+</ul>
  
  </body>
  
