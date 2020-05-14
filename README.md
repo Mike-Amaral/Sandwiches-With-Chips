@@ -5,8 +5,7 @@
   <title>Sandwiches-With-Chips</title>
   <meta name="description" content="Sandwiches-With-Chips">
   <meta name="author" content="Mike Amaral">
-  <!-- <link rel="stylesheet" href="basic.css"> -->
-</head>
+  
 </body>
 
 <h1> <strong> HELPING THE WORLD TO UNDERSTAND HOW LIFE CAN BE BETTER BY ADDING CHIPS TO SANDWICHES! </strong> </h1>
